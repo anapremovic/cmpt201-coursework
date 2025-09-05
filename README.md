@@ -1,2 +1,2 @@
 # cmpt201-coursework
-Repository that holds all lab and assignment work for CMPT 201 at Simon Fraser University.
+Repository that holds all personal and lab work for CMPT 201 at Simon Fraser University.
